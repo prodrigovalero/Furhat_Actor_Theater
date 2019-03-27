@@ -1,0 +1,14 @@
+11:29:38 [Skill] INFO  Skill:137 - Connecting to Furhat server on 192.168.0.100:1932
+11:29:39 [Skill] ERROR EventSystem:187 - Timed out while waiting for class furhatos.event.responses.ResponseWebServerPort
+java.util.concurrent.TimeoutException
+	at java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1771)
+	at java.util.concurrent.CompletableFuture.get(CompletableFuture.java:1915)
+	at furhatos.event.EventSystem.sendAndWait(EventSystem.java:184)
+	at furhatos.event.EventSystem.sendAndWait(EventSystem.java:174)
+	at furhatos.skills.Skill.requestFurhatWebPort(Skill.java:242)
+	at furhatos.skills.Skill.startSkill(Skill.java:223)
+	at furhatos.skills.Skill.main(Skill.java:94)
+	at furhatos.app.actor_theater.MainKt.main(main.kt:14)
+11:29:39 [Skill] WARN  Skill:225 - Unable to get real furhatWebPort, using default of 80
+11:29:39 [Actor_theaterSkill] INFO  Actor_theaterSkill:171 - Starting skill
+11:29:43 [Actor_theaterSkill] WARN  FurhatEventWrapper:298 - Could not find voice: ? (en-US) - Unknown
