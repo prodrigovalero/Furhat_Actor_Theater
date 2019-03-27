@@ -6,6 +6,10 @@ import furhatos.nlu.common.No
 import furhatos.nlu.common.Yes
 import furhatos.util.*
 
+/**
+ * Initial state
+ */
+
 val Idle: State = state {
 
     init {
@@ -32,6 +36,9 @@ val Idle: State = state {
     }
 }
 
+/**
+ * State which manages the interaction
+ */
 val Interaction: State = state {
 
     onUserLeave(instant = true) {
