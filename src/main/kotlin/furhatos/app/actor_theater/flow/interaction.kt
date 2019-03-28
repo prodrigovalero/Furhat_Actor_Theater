@@ -145,7 +145,7 @@ val Section2: State = state(Interaction) {
         furhat.ask(HamletSection2)
 
     }
-    System.out.println("My ears have not yet drunk a hundred words Of that tongue’s utterance, yet I know the sound: Art thou not Romeo and a Montague? ")
+    System.out.println("Say this now: My ears have not yet drunk a hundred words Of that tongue’s utterance, yet I know the sound: Art thou not Romeo and a Montague? ")
 
     onResponse<Section2Intent> {
         delay(6000)
