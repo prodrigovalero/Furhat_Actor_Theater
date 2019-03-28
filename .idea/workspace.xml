@@ -3,29 +3,46 @@
   <component name="ChangeListManager">
     <list default="true" id="c52791ec-b8dc-48a4-a7e0-1e73076c526f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/GeneralKt$Idle$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/GeneralKt$Idle$1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/GeneralKt$Idle$1$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/GeneralKt$Idle$1$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/GeneralKt$Idle$1$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/GeneralKt$Idle$1$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/GeneralKt$Idle$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/GeneralKt$Idle$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/GeneralKt$Interaction$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/GeneralKt$Interaction$1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/GeneralKt$Interaction$1$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/GeneralKt$Interaction$1$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/GeneralKt$Interaction$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/GeneralKt$Interaction$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/GeneralKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/GeneralKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/InteractionKt$BranchJuliet$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/InteractionKt$BranchJuliet$1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/InteractionKt$BranchJuliet$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/InteractionKt$BranchJuliet$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/InteractionKt$BranchRomeo$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/InteractionKt$BranchRomeo$1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/InteractionKt$BranchRomeo$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/InteractionKt$BranchRomeo$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/InteractionKt$Branches$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/InteractionKt$Branches$1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/InteractionKt$Branches$1$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/InteractionKt$Branches$1$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/InteractionKt$Branches$1$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/InteractionKt$Branches$1$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/InteractionKt$Branches$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/InteractionKt$Branches$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/InteractionKt$HamletSection1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/InteractionKt$HamletSection1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/InteractionKt$HamletSection1b$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/InteractionKt$HamletSection1b$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/InteractionKt$HamletSection2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/InteractionKt$HamletSection2$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/InteractionKt$Personaje$1$$special$$inlined$onResponse$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/InteractionKt$Personaje$1$$special$$inlined$onResponse$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/InteractionKt$Personaje$1$$special$$inlined$onResponse$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/InteractionKt$Personaje$1$$special$$inlined$onResponse$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/InteractionKt$Personaje$1$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/InteractionKt$Personaje$1$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/InteractionKt$Personaje$1$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/InteractionKt$Personaje$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/InteractionKt$HamletSection2b$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/InteractionKt$HamletSection2b$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/InteractionKt$RestartFunction$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/InteractionKt$RestartFunction$1$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/InteractionKt$RestartFunction$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/InteractionKt$RestartFunction$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/InteractionKt$Section1$1$$special$$inlined$onResponse$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/InteractionKt$Section1$1$$special$$inlined$onResponse$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/InteractionKt$Section1$1$$special$$inlined$onResponse$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/InteractionKt$Section1$1$$special$$inlined$onResponse$2.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/InteractionKt$Section1$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/InteractionKt$Section1$1$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/InteractionKt$Section1$1$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/InteractionKt$Section1$1$2.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/InteractionKt$Section1$1$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/InteractionKt$Section1$1$3.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/InteractionKt$Section1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/InteractionKt$Section1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/InteractionKt$Section1b$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/InteractionKt$Section1b$1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/InteractionKt$Section1b$1$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/InteractionKt$Section1b$1$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/InteractionKt$Section1b$1$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/InteractionKt$Section1b$1$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/InteractionKt$Section1b$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/InteractionKt$Section1b$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/InteractionKt$Section2$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/InteractionKt$Section2$1$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/InteractionKt$Section2$1$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/InteractionKt$Section2$1$2.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/InteractionKt$Section2$1$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/InteractionKt$Section2$1$3.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/InteractionKt$Section2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/InteractionKt$Section2$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/InteractionKt$Section2b$1$$special$$inlined$onResponse$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/InteractionKt$Section2b$1$$special$$inlined$onResponse$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/InteractionKt$Section2b$1$$special$$inlined$onResponse$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/InteractionKt$Section2b$1$$special$$inlined$onResponse$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/InteractionKt$Section2b$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/InteractionKt$Section2b$1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/InteractionKt$Section2b$1$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/InteractionKt$Section2b$1$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/InteractionKt$Section2b$1$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/InteractionKt$Section2b$1$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/InteractionKt$Section2b$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/InteractionKt$Section2b$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/InteractionKt$Start$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/InteractionKt$Start$1$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/InteractionKt$Start$1$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/InteractionKt$Start$1$2.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/InteractionKt$Start$1$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/InteractionKt$Start$1$3.class" afterDir="false" />
@@ -35,10 +52,10 @@
       <change beforePath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/InteractionKt$loop$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/InteractionKt$loop$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/InteractionKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/flow/InteractionKt.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/nlu/Section1Intent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/nlu/Section1Intent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/nlu/Section1bIntent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/nlu/Section1bIntent.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/nlu/Section2Intent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/nlu/Section2Intent.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/furhatos/app/actor_theater/flow/general.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/furhatos/app/actor_theater/flow/general.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/nlu/Section2bIntent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/furhatos/app/actor_theater/nlu/Section2bIntent.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/furhatos/app/actor_theater/flow/interaction.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/furhatos/app/actor_theater/flow/interaction.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/furhatos/app/actor_theater/nlu/nlu.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/furhatos/app/actor_theater/nlu/nlu.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -85,8 +102,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/kotlin/furhatos/app/actor_theater/main.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+            <state relative-caret-position="165">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
               <folding>
                 <element signature="e#36#135#0" expanded="true" />
               </folding>
@@ -94,10 +111,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/kotlin/furhatos/app/actor_theater/flow/general.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="292">
+            <state relative-caret-position="585">
               <caret line="39" column="38" selection-start-line="39" selection-start-column="38" selection-end-line="39" selection-end-column="38" />
               <folding>
                 <element signature="e#42#155#0" expanded="true" />
@@ -110,7 +127,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/kotlin/furhatos/app/actor_theater/nlu/nlu.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="465">
-              <caret line="31" column="3" lean-forward="true" selection-start-line="31" selection-start-column="3" selection-end-line="31" selection-end-column="3" />
+              <caret line="31" column="3" selection-start-line="31" selection-start-column="3" selection-end-line="31" selection-end-column="3" />
               <folding>
                 <element signature="e#40#96#0" expanded="true" />
               </folding>
@@ -118,11 +135,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/kotlin/furhatos/app/actor_theater/flow/interaction.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="171" column="24" selection-start-line="171" selection-start-column="24" selection-end-line="171" selection-end-column="24" />
+            <state relative-caret-position="307">
+              <caret line="199" column="52" selection-start-line="199" selection-start-column="52" selection-end-line="199" selection-end-column="52" />
               <folding>
                 <element signature="e#41#320#0" expanded="true" />
               </folding>
@@ -135,7 +152,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="165">
-                <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+                <caret line="11" selection-start-line="11" selection-end-line="11" />
               </first_editor>
               <second_editor />
             </state>
@@ -159,8 +176,8 @@
         <option value="$PROJECT_DIR$/src/main/kotlin/furhatos/app/actor_theater/main.kt" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/main/kotlin/furhatos/app/actor_theater/nlu/nlu.kt" />
-        <option value="$PROJECT_DIR$/src/main/kotlin/furhatos/app/actor_theater/flow/interaction.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/furhatos/app/actor_theater/flow/general.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/furhatos/app/actor_theater/flow/interaction.kt" />
       </list>
     </option>
   </component>
@@ -171,9 +188,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="-1920" />
-    <option name="width" value="1920" />
-    <option name="height" value="1080" />
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -243,7 +259,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553709844797" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553757153008" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -295,15 +311,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1553539163967</updated>
-      <workItem from="1553539168011" duration="21541000" />
+      <workItem from="1553539168011" duration="23129000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21541000" />
+    <option name="totallyTimeSpent" value="23129000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1920" y="0" width="1920" height="1080" extended-state="0" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" />
@@ -311,10 +327,10 @@
       <window_info id="Capture Tool" />
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16453674" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Build" weight="0.329927" />
-      <window_info anchor="bottom" id="Terminal" weight="0.23663366" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32739726" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="CheckStyle" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
@@ -323,7 +339,7 @@
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.30891088" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30821916" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -409,32 +425,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="165">
-            <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/furhatos/app/actor_theater/main.kt">
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/furhatos/app/actor_theater/flow/general.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        <state relative-caret-position="585">
+          <caret line="39" column="38" selection-start-line="39" selection-start-column="38" selection-end-line="39" selection-end-column="38" />
           <folding>
-            <element signature="e#36#135#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/furhatos/app/actor_theater/flow/interaction.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="171" column="24" selection-start-line="171" selection-start-column="24" selection-end-line="171" selection-end-column="24" />
-          <folding>
-            <element signature="e#41#320#0" expanded="true" />
+            <element signature="e#42#155#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -442,19 +438,39 @@
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/furhatos/app/actor_theater/nlu/nlu.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
-          <caret line="31" column="3" lean-forward="true" selection-start-line="31" selection-start-column="3" selection-end-line="31" selection-end-column="3" />
+          <caret line="31" column="3" selection-start-line="31" selection-start-column="3" selection-end-line="31" selection-end-column="3" />
           <folding>
             <element signature="e#40#96#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/furhatos/app/actor_theater/flow/general.kt">
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/furhatos/app/actor_theater/main.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="39" column="38" selection-start-line="39" selection-start-column="38" selection-end-line="39" selection-end-column="38" />
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
           <folding>
-            <element signature="e#42#155#0" expanded="true" />
+            <element signature="e#36#135#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="165">
+            <caret line="11" selection-start-line="11" selection-end-line="11" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/furhatos/app/actor_theater/flow/interaction.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="199" column="52" selection-start-line="199" selection-start-column="52" selection-end-line="199" selection-end-column="52" />
+          <folding>
+            <element signature="e#41#320#0" expanded="true" />
           </folding>
         </state>
       </provider>
