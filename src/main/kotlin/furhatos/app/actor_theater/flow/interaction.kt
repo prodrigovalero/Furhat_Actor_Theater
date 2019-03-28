@@ -56,6 +56,8 @@ val Branches: State = state(Interaction)
 
     }
     onResponse<No> {
+        furhat.say("Okey, I'll do Romeo then")
+        delay(1500)
         goto(BranchRomeo)
     }
 
@@ -100,7 +102,7 @@ val Section1: State = state(Interaction) {
     }
 
     onResponse {
-        addOnetoCount()
+
         goto(RestartFunction)
     }
 
@@ -123,7 +125,7 @@ val Section1b: State = state(Interaction) {
     }
 
     onResponse {
-        addOnetoCount()
+
         goto(RestartFunction)
     }
 
@@ -148,11 +150,11 @@ val Section2: State = state(Interaction) {
     onResponse<Section2Intent> {
         delay(6000)
         furhat.say(" I told you, with effort nothing is impossible, well done this was all for today", async = true)
-        furhat.gesture(BigSmile(strength = 3.0, duration = 7.0))
+        furhat.gesture(BigSmile(strength = 3.0, duration = 6.0))
     }
 
     onResponse {
-        addOnetoCount()
+
         goto(RestartFunction)
     }
 
@@ -170,14 +172,15 @@ val Section2b: State = state(Interaction) {
     }
     System.out.println("Say it now! Shall I hear more, or shall I speak at this? ")
     onResponse<Section2bIntent> {
-        delay(6000)
+
         furhat.say(HamletSection2b, async = false)
+        delay(6000)
         furhat.say(" I told you, with effort nothing is impossible, well done this was all for today", async = true)
         furhat.gesture(BigSmile(strength = 3.0, duration = 7.0))
     }
 
     onResponse {
-        addOnetoCount()
+
         goto(RestartFunction)
     }
 }
@@ -189,13 +192,14 @@ val Section2b: State = state(Interaction) {
 val RestartFunction: State = state(Interaction) {
     onEntry {
 
-
+        addOnetoCount()
         delay(2000)
 
         if (numErrors() >= 3) {
             furhat.say("You have already done 3 errors, this is unbelivable, study and come back tommorow!", async = true)
-            furhat.gesture(ExpressAnger(duration = 2.0))
+            furhat.gesture(ExpressAnger(duration = 3.0))
         } else {
+
             furhat.say(Restarting)
             delay(1000)
             goto(loop)
