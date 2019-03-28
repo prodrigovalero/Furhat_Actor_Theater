@@ -248,7 +248,7 @@ fun numErrors(): Int {
 val greeting = utterance {
     +"Hi there,"
     +Gestures.Smile
-    +"Welcome to the Furhat Theater Academy, today we are going to rehearse a well-known play, Hamlet"
+    +"Welcome to the Furhat Theater Academy, today we are going to rehearse a well-known play, Romeo and Julietg"
     +delay(500)
     +"I am sure you have rehearse and you know your text well, because I know mine"
     +Gestures.BigSmile()
